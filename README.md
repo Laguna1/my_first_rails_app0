@@ -22,4 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+![localhost:3000/cars](./localhost.png)
+
 ![screen](./screen.png)
