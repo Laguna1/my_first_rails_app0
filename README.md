@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-[screen](../screen.png)
+![screen](./screen.png)
